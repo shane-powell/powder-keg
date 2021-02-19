@@ -1,13 +1,15 @@
 #pragma once
 
 #include <cstdint>
-#include "32blit.hpp"
+#include <map>
+
 #include "GameState.h"
 #include "Movement.h"
 #include "Projectile.h"
 #include "TileData.h"
 #include "SpriteDef.h"
 #include "Node.cpp"
+#include "../32blit-beta/32blit/engine/api.hpp"
 
 using namespace blit;
 using namespace GameState;

@@ -1,6 +1,5 @@
 #include "powder-keg.hpp"
 
-#include "../32blit/graphics/tilemap.hpp"
 #include "Explosion.h"
 #include "Projectile.h"
 #include "TileAnimationFrame.h"
@@ -8,6 +7,7 @@
 #include "GameState.h"
 #include "Player.h"
 #include "assets.hpp"
+#include "../32blit-beta/32blit/graphics/tilemap.hpp"
 
 using namespace blit;
 using namespace GameState;

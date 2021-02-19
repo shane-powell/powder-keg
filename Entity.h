@@ -1,5 +1,5 @@
 #pragma once
-#include "types/rect.hpp"
+#include "../32blit-beta/32blit/types/rect.hpp"
 
 
 class Entity {

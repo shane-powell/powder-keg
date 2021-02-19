@@ -1,0 +1,7 @@
+Formatter: c_source
+Files:
+    C:\Users\kenja\Documents\GitHub\Microsoft\powder-keg\assets.hpp
+    C:\Users\kenja\Documents\GitHub\Microsoft\powder-keg\assets.cpp
+Assets:
+    sprites_data: 5043
+Total size: 5043
