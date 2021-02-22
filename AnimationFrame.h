@@ -1,6 +1,6 @@
 #pragma once
 #include "Frame.h"
-#include "../32blit-beta/32blit/types/rect.hpp"
+#include "types/rect.hpp"
 
 class AnimationFrame : public Frame {
 	blit::Rect sprite;

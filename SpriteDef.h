@@ -1,5 +1,5 @@
 #pragma once
-#include "../32blit-beta/32blit/types/rect.hpp"
+#include "types/rect.hpp"
 
 const blit::Rect playerSprite = blit::Rect(0, 0, 1, 1);
     const blit::Rect playerSpriteUp = blit::Rect(0, 2, 1, 1);
