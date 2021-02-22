@@ -9,7 +9,7 @@
 #include "TileData.h"
 #include "SpriteDef.h"
 #include "Node.cpp"
-#include "../32blit-beta/32blit/engine/api.hpp"
+#include "engine/api.hpp"
 
 using namespace blit;
 using namespace GameState;

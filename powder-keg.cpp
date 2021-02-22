@@ -7,7 +7,7 @@
 #include "GameState.h"
 #include "Player.h"
 #include "assets.hpp"
-#include "../32blit-beta/32blit/graphics/tilemap.hpp"
+#include "graphics/tilemap.hpp"
 
 using namespace blit;
 using namespace GameState;
